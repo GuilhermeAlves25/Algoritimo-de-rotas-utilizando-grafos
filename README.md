@@ -1,4 +1,4 @@
-# Planejamento de Rota no Piauí com Grafos
+# Algoritimo de Rotas utilizando grafos
 
 ## 1. Objetivo do Projeto
 
